@@ -1,2 +1,2 @@
 # mix
-mix code
+mixed code
